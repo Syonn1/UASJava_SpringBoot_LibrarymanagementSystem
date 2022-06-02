@@ -1,5 +1,5 @@
 # UASJava_SpringBoot_LibrarymanagementSystem
-Devid Sumalrie - 535180008
+Devid Sumarlie - 535180008
 
 Ini emrupakan Repository khusus UAS Java, aplikasi yang dibuat bertema Library Management System menggunakan java dan Spring Boot sebagai framework utama.
 
